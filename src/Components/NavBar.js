@@ -40,7 +40,6 @@ function NavBar() {
 
                 <footer className="footer">
                     <p>
-                        @2021 Tuan Anh Nguyen
                         </p>
                 </footer>
             </nav>
