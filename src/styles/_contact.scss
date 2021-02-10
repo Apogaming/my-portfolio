@@ -10,6 +10,10 @@
     padding: 3rem 0;
     .right-items {
       margin-left: 2rem;
+      transition: all .4s ease-in-out;
+      &:hover{
+          color: #037FFF;
+      }
     }
     img {
       padding: 1rem;
@@ -45,11 +49,13 @@
   }
   .contact-sect {
     width: 100%;
+    font-size: 1rem;
   }
 }
 .map-sect {
   height: 100%;
   padding: 2rem;
+  margin-right: 1rem;
   background-color: #191d2b;
   iframe {
     width: 100%;
