@@ -39,8 +39,7 @@ function NavBar() {
                 </ul>
 
                 <footer className="footer">
-                    <p>
-                        </p>
+                    <p> @2021 Tuan Anh Nguyen</p>
                 </footer>
             </nav>
 
