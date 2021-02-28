@@ -44,44 +44,45 @@ const portfolios = [
     },
     {
         id: 4,
-        category: 'Javascript',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        category: 'CSS',
+        link1: '//github.com/Apogaming/rus-travel',
+        link2: '//apogaming.github.io/rus-travel/',
         icon1: 'Git',
         icon2: 'Demo',
         image: port4,
-        title: 'Vanilla Javascript Website'
+        title: 'russian travel',
+        subtitle:'Website about travel in russia',
     },
-    {
-        id: 5,
-        category: 'React Js',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'Git',
-        icon2: 'Demo',
-        image: port6,
-        title: 'Getting Started With React'
-    },
-    {
-        id: 6,
-        category: 'React Js',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'Git',
-        icon2: 'Demo',
-        image: port7,
-        title: 'Vanilla Javascript Website'
-    },
-    {
-        id: 7,
-        category: 'Test Port',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'Git',
-        icon2: 'Demo',
-        image: port4,
-        title: 'Vanilla Javascript Website'
-    }
+//     {
+//         id: 5,
+//         category: 'React Js',
+//         link1: 'www.youtube.com',
+//         link2: 'www.github.com',
+//         icon1: 'Git',
+//         icon2: 'Demo',
+//         image: port6,
+//         title: 'Getting Started With React'
+//     },
+//     {
+//         id: 6,
+//         category: 'React Js',
+//         link1: 'www.youtube.com',
+//         link2: 'www.github.com',
+//         icon1: 'Git',
+//         icon2: 'Demo',
+//         image: port7,
+//         title: 'Vanilla Javascript Website'
+//     },
+//     {
+//         id: 7,
+//         category: 'Test Port',
+//         link1: 'www.youtube.com',
+//         link2: 'www.github.com',
+//         icon1: 'Git',
+//         icon2: 'Demo',
+//         image: port4,
+//         title: 'Vanilla Javascript Website'
+//     }
 ]
 
 export default portfolios;
