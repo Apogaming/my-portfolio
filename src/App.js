@@ -6,7 +6,8 @@ import AboutPage from './Pages/AboutPage';
 import PortfoliosPage from './Pages/PortfoliosPage';
 import BlogsPage from './Pages/BlogsPage';
 import ContactPage from './Pages/ContactPage';
-import { useState } from 'react'
+import { useState } from 'react';
+import Particles from 'react-particles-js';
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
       </div>
       <div className="main-content">
         <div className="content">
+       
           <Switch>
             <Route path="/my-portfolio" exact>
               <HomePage />
@@ -37,9 +39,9 @@ function App() {
             <Route path="/portfolios" exact>
               <PortfoliosPage />
             </Route>
-            <Route path="/blogs" exact>
+            {/* <Route path="/blogs" exact>
               <BlogsPage />
-            </Route>
+            </Route> */}
             <Route path="/contact" exact>
               <ContactPage />
             </Route>
