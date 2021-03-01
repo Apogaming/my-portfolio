@@ -28,8 +28,8 @@ function ImageSection() {
                         <p>: 28</p>
                         <p>: Viet Nam</p>
                         <p>: Vietnamese, Russian , Polish, English</p>
-                        <p>: HEre 123 warszawa Polan</p>
-                        <p>: Ukraine</p>
+                        <p>: Warsaw Poland</p>
+                        <p>: Ukraine , Poland , VietNam</p>
                     </div>
                 </div>
                 <a href="https://www.notion.so/Tuan-Anh-Nguyen-ae1effc899364eefb35c7c45ffb734d0" className="btn" target="_blank">Watch CV</a>

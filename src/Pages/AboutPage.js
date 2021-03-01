@@ -37,12 +37,12 @@ function AboutPage() {
             <div className="hobbies-container">
                 <HobbiesSection title={'Sports'}
                     image={sport}
-                    text={'Football, Snowboard , running'}
+                    text={'Football, Snowboard , Table tennis'}
                 />
 
                 <HobbiesSection title={'Free times'}
                     image={hobbies}
-                    text={'Music , Book , Cook and EAT'}
+                    text={'Music , Books , Cook and EAT'}
                 />
                 <HobbiesSection title={'Games'}
                     image={gamedev}
