@@ -50,7 +50,7 @@ const portfolios = [
         icon1: 'Git',
         icon2: 'Demo',
         image: port4,
-        title: 'russian travel',
+        title: 'Russian travel',
         subtitle:'Website about travel in russia',
     },
 //     {
